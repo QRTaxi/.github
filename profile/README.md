@@ -1,4 +1,4 @@
-## QR코드로 한 번에! 큐택
+![아키텍쳐-001](https://github.com/QRTaxi/.github/assets/102458609/827ba6c6-c929-46bd-a339-d2ae95f90bce)## QR코드로 한 번에! 큐택
 
 <img src="https://github.com/QRTaxi/QRTaxi_Web/assets/87803596/7e2a44c1-caac-4a2a-8e1d-e61a5695ad8f">
 
@@ -86,3 +86,9 @@
         </td>
     </tr>
 </table>
+
+## Infra Architecture
+![아키텍쳐-001](https://github.com/QRTaxi/.github/assets/102458609/ceee1306-34a9-45db-946a-47ba284a923a)
+
+
+
